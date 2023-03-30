@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "entitys_playground_mod:blocks/weedplant_stage0"
+  }
+}

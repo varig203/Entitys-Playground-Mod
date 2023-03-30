@@ -1,0 +1,53 @@
+{
+  "mod_elements": [
+    {
+      "name": "Weedplantstage0",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "weedplantstage_0",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/entitys_playground_mod/blockstates/weedplantstage_0.json",
+          "src/main/java/net/mcreator/entitysplaygroundmod/block/Weedplantstage0Block.java",
+          "src/main/resources/assets/entitys_playground_mod/models/item/weedplantstage_0.json",
+          "src/main/resources/assets/entitys_playground_mod/models/block/weedplantstage_0.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.entitys_playground_mod.weedplantstage_0": "Weedplant Stage0"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "blocks",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "entitys_playground_mod",
+    "modName": "Entity\u0027s Playground Mod",
+    "version": "1.0.0",
+    "author": "daniel, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.entitysplaygroundmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

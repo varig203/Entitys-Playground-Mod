@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "entitys_playground_mod:blocks/weedplant_stage0",
+    "particle": "entitys_playground_mod:blocks/weedplant_stage0"
+  },
+  "render_type": "cutout"
+}
