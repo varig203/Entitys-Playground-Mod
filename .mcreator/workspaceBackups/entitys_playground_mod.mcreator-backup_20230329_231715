@@ -13,8 +13,7 @@
           "src/main/resources/assets/entitys_playground_mod/models/item/weedplantstage_0.json",
           "src/main/resources/assets/entitys_playground_mod/models/block/weedplantstage_0.json"
         ]
-      },
-      "path": "~/Block"
+      }
     }
   ],
   "variable_elements": [],
@@ -28,19 +27,7 @@
     "name": "~",
     "children": [
       {
-        "name": "Block",
-        "children": []
-      },
-      {
-        "name": "Procedures",
-        "children": []
-      },
-      {
-        "name": "Item",
-        "children": []
-      },
-      {
-        "name": "Food",
+        "name": "blocks",
         "children": []
       }
     ]
